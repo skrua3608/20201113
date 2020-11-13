@@ -1,0 +1,7 @@
+
+11월 09, 2020 12:19:18.58 NEW SESSION
+11월 09, 2020 12:19:18.58 [5008:5504:1109/121918.041:ERROR:component_installer.cc(326)] Failed to read manifest or verify installation for Safety Tips (C:\Users\KB\AppData\Local\Google\Chrome\User Data\SafetyTips\2496).: 지정된 파일을 찾을 수 없습니다. (0x2)
+11월 09, 2020 12:31:57.353 [1109/123157.352:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+
+11월 11, 2020 11:41:15.377 NEW SESSION
+11월 11, 2020 11:41:15.377 [1111/114115.377:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
